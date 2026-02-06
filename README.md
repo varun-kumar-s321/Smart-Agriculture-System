@@ -59,6 +59,12 @@ TDS : 410 ppm
 Turbidity : 22 NTU
 Pump Status : ON (Irrigation Started)
 ---
+## 📊 Sample Output
+
+The following screenshot shows the working of the Smart Agriculture System.
+The pump turns ON or OFF based on soil moisture and water quality conditions.
+
+![Smart Agriculture System Output](output.png)
 
 ## 🛠 Technologies Used
 - C Programming Language

@@ -60,6 +60,8 @@ TDS : 410 ppm
 Turbidity : 22 NTU
 Pump Status : ON (Irrigation Started)**
 
+---
+
 The following screenshot shows the working of the Smart Agriculture System.
 The pump turns ON or OFF based on soil moisture and water quality conditions.
 
@@ -86,13 +88,6 @@ The pump turns ON or OFF based on soil moisture and water quality conditions.
 - IoT-based cloud monitoring
 - Mobile application control
 - ESP32 / Arduino hardware implementation
-
----
-
-## 🎓 Academic & Interview Relevance
-- Suitable for ECE / CSE students
-- Demonstrates automation and control logic
-- Easy to extend to embedded and IoT systems
 
 ---
 
